@@ -1,0 +1,14 @@
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\ShootTheFruits.Models.dll.config
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\ShootTheFruits.Models.dll
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\ShootTheFruits.Models.pdb
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\EntityFramework.dll
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\EntityFramework.xml
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\obj\Debug\ShootTheFruits.Models.csprojResolveAssemblyReference.cache
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\obj\Debug\ShootTheFruits.Models.dll
+C:\Users\8\Documents\Visual Studio 2015\Projects\ShootTheFruits\ShootTheFruits.Models\obj\Debug\ShootTheFruits.Models.pdb

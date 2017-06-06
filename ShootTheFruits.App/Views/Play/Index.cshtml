@@ -1,0 +1,46 @@
+﻿@{ 
+    ViewBag.Title = "Game Play";
+}
+
+    <h2>Game Play</h2>
+
+@if (ViewBag.gameOver)
+{
+    <h2>Game Over!</h2>
+    <img src="/Images/explosion.png" />
+    <div class="col-lg-offset-10">
+        <input type="button" class="btn btn-default btn-block btn-group-lg" value="New Game" onclick="location.href='@Url.Action("Reset", "Play")'" />
+        <input type="button" class="btn btn-default btn-block btn-group-lg" value="Quit" onclick="location.href='@Url.Action("Exit", "Home")'" />
+    </div>
+}
+else
+{
+    <form action="Play/FireTop">
+        Top: <input type="range" name="position" min="0" max="100"/>
+        <input type="submit" value="Fire Top" />
+    </form>
+
+    <form action="Play/FireBottom">
+        Bottom: <input type="range" name="position" min="0" max="100" />
+        <input type="submit" value="Fire Bottom" />
+    </form>
+
+    <form action="/Play/Reset">
+        <input type="submit" value="New Game" />
+    </form>
+
+   <h2>Battle Field</h2>
+for (int row = 0; row < ViewBag.rowsCount; row++)
+{
+    for (int col = 0; col < ViewBag.colsCount; col++)
+    {
+        <img src="~/Images/@(ViewBag.fruits[row, col]).png" />
+    }
+    <br />
+}
+<h2>Score: <b>@ViewBag.score</b></h2>
+    <div class="col-lg-offset-10">
+        <input type="button" class="btn btn-default btn-block btn-group-lg" value="Quit" onclick="location.href='@Url.Action("Exit", "Home")'"/>
+    </div>
+}
+
